@@ -1,0 +1,8 @@
+Images for full training in ./Training/Dataset/full/txt .
+Images for testing training program in ./Training/Dataset/test/txt/
+Validation images for both programs are from ./Training/Dataset/validate/txt
+
+The test training files are a subset of the full training dataset used for 
+debugging the training program. The validation images are a partition of 
+the full dataset (seperate from training dataset) used to validate the training results, for use in the EFDS and the training program. 
+
