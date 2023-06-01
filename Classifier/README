@@ -1,5 +1,0 @@
-This directory holds all source code for the strong classifier actors.
-
-It contains the graph for the fully implemented face detector utilizing
-the Viola-Jones algorithm. To run the code, the src folder must be unzipped.
-The tests present in the test folder can be used to check the functionality of the code.
