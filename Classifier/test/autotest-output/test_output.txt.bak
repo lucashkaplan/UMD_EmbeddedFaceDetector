@@ -1,0 +1,75 @@
+Tests started on:
+Mon 15 May 2023 06:59:23 PM EDT
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test01
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test02
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test02
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test03
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test03
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test04
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test04
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test05
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test05
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test06
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test06
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test07
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test07
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test08
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test08
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test09
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test09
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test10
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test10
+Files ../expected-errors.txt and error_output.txt differ
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test11
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test11
+Files ../expected-errors.txt and error_output.txt differ
+Tests completed on:
+Mon 15 May 2023 06:59:27 PM EDT

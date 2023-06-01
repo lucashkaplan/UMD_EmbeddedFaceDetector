@@ -1,0 +1,2 @@
+/usr/bin/ar qc libclassifier_src.a  CMakeFiles/classifier_src.dir/Actors/file_sink.cpp.o CMakeFiles/classifier_src.dir/Graph/face_detector.cpp.o CMakeFiles/classifier_src.dir/Actors/classifier.cpp.o CMakeFiles/classifier_src.dir/Actors/ImgRead.cpp.o
+/usr/bin/ranlib libclassifier_src.a

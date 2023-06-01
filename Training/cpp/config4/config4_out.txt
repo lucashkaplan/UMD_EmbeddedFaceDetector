@@ -1,0 +1,868 @@
+Strong Classifier 0
+
+Weak Classifer 0
+index: 47074
+parity: 1
+thresh: -69
+error: 0.122598
+alpha: 1.96805
+TPR: 0.920543
+FPR: 0.167766
+Number of face images in dataset: 2429
+Number of non face images in dataset: 4548
+
+TPR: 0.920543
+FPR: 0.167766
+Number of face images in dataset: 2429
+Number of non face images in dataset: 4548
+
+________________________________________________________________________________
+
+Strong Classifier 1
+
+Weak Classifer 0
+index: 41958
+parity: -1
+thresh: 1339.5
+error: 0.153386
+alpha: 1.70829
+TPR: 0.883274
+FPR: 0.19135
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 1
+index: 151401
+parity: 1
+thresh: -57
+error: 0.244484
+alpha: 1.12825
+TPR: 0.883274
+FPR: 0.19135
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 2
+index: 154064
+parity: 1
+thresh: -210
+error: 0.238918
+alpha: 1.15862
+TPR: 0.786225
+FPR: 0.230668
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 3
+index: 42484
+parity: 1
+thresh: 1382.5
+error: 0.229226
+alpha: 1.21269
+TPR: 0.783989
+FPR: 0.224115
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 4
+index: 41288
+parity: 1
+thresh: 1289
+error: 0.214224
+alpha: 1.29965
+TPR: 0.706619
+FPR: 0.302752
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 5
+index: 151741
+parity: -1
+thresh: -188
+error: 0.132483
+alpha: 1.87918
+TPR: 0.229428
+FPR: 0.781127
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 6
+index: 153764
+parity: -1
+thresh: -95
+error: 0.145818
+alpha: 1.76778
+TPR: 0.286673
+FPR: 0.771953
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 7
+index: 1590
+parity: -1
+thresh: 104
+error: 0.209803
+alpha: 1.32612
+TPR: 0.342129
+FPR: 0.70249
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 8
+index: 36788
+parity: -1
+thresh: 176
+error: 0.180697
+alpha: 1.51163
+TPR: 0.694097
+FPR: 0.279161
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 9
+index: 56764
+parity: -1
+thresh: 20
+error: 0.169957
+alpha: 1.58593
+TPR: 0.645349
+FPR: 0.331586
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 10
+index: 7215
+parity: -1
+thresh: 6
+error: 0.185568
+alpha: 1.47907
+TPR: 0.829606
+FPR: 0.204456
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 11
+index: 4306
+parity: 1
+thresh: -20
+error: 0.19663
+alpha: 1.40749
+TPR: 0.834526
+FPR: 0.280472
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 12
+index: 142636
+parity: 1
+thresh: -10
+error: 0.196507
+alpha: 1.40827
+TPR: 0.890429
+FPR: 0.187418
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 13
+index: 19378
+parity: 1
+thresh: -372
+error: 0.193232
+alpha: 1.42914
+TPR: 0.877907
+FPR: 0.176933
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 14
+index: 154063
+parity: 1
+thresh: -85
+error: 0.225088
+alpha: 1.23626
+TPR: 0.918605
+FPR: 0.12713
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 15
+index: 155479
+parity: -1
+thresh: 35
+error: 0.218232
+alpha: 1.276
+TPR: 0.889088
+FPR: 0.116645
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 16
+index: 6777
+parity: 1
+thresh: -25
+error: 0.216894
+alpha: 1.28386
+TPR: 0.882379
+FPR: 0.08519
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 17
+index: 72949
+parity: 1
+thresh: 38.5
+error: 0.185925
+alpha: 1.47671
+TPR: 0.88059
+FPR: 0.112713
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 18
+index: 90085
+parity: -1
+thresh: -734.5
+error: 0.168413
+alpha: 1.59692
+TPR: 0.902952
+FPR: 0.123198
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 19
+index: 24676
+parity: 1
+thresh: 1053.5
+error: 0.138011
+alpha: 1.83191
+TPR: 0.883274
+FPR: 0.195282
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 20
+index: 6975
+parity: -1
+thresh: -5
+error: 0.160921
+alpha: 1.65139
+TPR: 0.931574
+FPR: 0.258191
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 21
+index: 157373
+parity: 1
+thresh: -2
+error: 0.134
+alpha: 1.86605
+TPR: 0.904293
+FPR: 0.267366
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 22
+index: 151742
+parity: 1
+thresh: -126.5
+error: 0.13203
+alpha: 1.88313
+TPR: 0.928444
+FPR: 0.2346
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 23
+index: 113648
+parity: 1
+thresh: -9670
+error: 0.120251
+alpha: 1.99005
+TPR: 0.944991
+FPR: 0.197903
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 24
+index: 154890
+parity: -1
+thresh: 44.5
+error: 0.0981871
+alpha: 2.21753
+TPR: 0.940072
+FPR: 0.207077
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 25
+index: 53607
+parity: 1
+thresh: 14
+error: 0.0529672
+alpha: 2.88366
+TPR: 0.937835
+FPR: 0.23329
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 26
+index: 20307
+parity: -1
+thresh: 1092.5
+error: 0.0412351
+alpha: 3.14636
+TPR: 0.934258
+FPR: 0.165138
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 27
+index: 141920
+parity: -1
+thresh: 0
+error: 0.0435767
+alpha: 3.08868
+TPR: 0.923077
+FPR: 0.175623
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 28
+index: 155122
+parity: -1
+thresh: -262
+error: 0.0317273
+alpha: 3.41834
+TPR: 0.919052
+FPR: 0.190039
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 29
+index: 58500
+parity: -1
+thresh: 159
+error: 0.0288123
+alpha: 3.51772
+TPR: 0.912791
+FPR: 0.179554
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 30
+index: 48835
+parity: -1
+thresh: 37.5
+error: 0.010608
+alpha: 4.53548
+TPR: 0.831843
+FPR: 0.129751
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 31
+index: 157618
+parity: -1
+thresh: -63
+error: 0.0140271
+alpha: 4.25264
+TPR: 0.860912
+FPR: 0.150721
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 32
+index: 75784
+parity: 1
+thresh: -45
+error: 0.0139993
+alpha: 4.25465
+TPR: 0.875224
+FPR: 0.183486
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 33
+index: 158147
+parity: 1
+thresh: 62
+error: 0.00385821
+alpha: 5.55369
+TPR: 0.882379
+FPR: 0.235911
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 34
+index: 158664
+parity: 1
+thresh: -82.5
+error: 0.00599545
+alpha: 5.11074
+TPR: 0.885957
+FPR: 0.263434
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 35
+index: 14688
+parity: 1
+thresh: 199.5
+error: 0.00168818
+alpha: 6.38241
+TPR: 0.864043
+FPR: 0.31979
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 36
+index: 158201
+parity: 1
+thresh: 312.5
+error: 0.000146508
+alpha: 8.82828
+TPR: 0.870304
+FPR: 0.391874
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 37
+index: 87073
+parity: 1
+thresh: -143
+error: 0.000383854
+alpha: 7.86486
+TPR: 0.919946
+FPR: 0.441678
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 38
+index: 48311
+parity: -1
+thresh: 1
+error: 0.000951413
+alpha: 6.95661
+TPR: 0.928891
+FPR: 0.483617
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 39
+index: 150688
+parity: -1
+thresh: 46
+error: 2.68333e-05
+alpha: 10.5258
+TPR: 0.891324
+FPR: 0.294889
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 40
+index: 148412
+parity: 1
+thresh: -166.5
+error: 2.92063e-06
+alpha: 12.7437
+TPR: 0.816637
+FPR: 0.152031
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 41
+index: 10094
+parity: -1
+thresh: 8
+error: 0.000206888
+alpha: 8.48313
+TPR: 0.847048
+FPR: 0.145478
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 42
+index: 10134
+parity: -1
+thresh: 16
+error: 0.000272572
+alpha: 8.20734
+TPR: 0.850179
+FPR: 0.125819
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 43
+index: 158028
+parity: -1
+thresh: 3.5
+error: 0.000248194
+alpha: 8.30105
+TPR: 0.822898
+FPR: 0.131062
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 44
+index: 3528
+parity: 1
+thresh: -8
+error: 0.00102055
+alpha: 6.88639
+TPR: 0.818426
+FPR: 0.121887
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 45
+index: 149179
+parity: -1
+thresh: 150.5
+error: 0.000105655
+alpha: 9.15523
+TPR: 0.782648
+FPR: 0.115334
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 46
+index: 145112
+parity: -1
+thresh: -7
+error: 7.70688e-05
+alpha: 9.47073
+TPR: 0.82424
+FPR: 0.144168
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 47
+index: 144272
+parity: 1
+thresh: 33
+error: 5.90086e-06
+alpha: 12.0404
+TPR: 0.881038
+FPR: 0.201835
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 48
+index: 4604
+parity: -1
+thresh: 70
+error: 4.22597e-05
+alpha: 10.0716
+TPR: 0.927996
+FPR: 0.205767
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+Weak Classifer 49
+index: 144519
+parity: 1
+thresh: 2
+error: 1.17421e-05
+alpha: 11.3523
+TPR: 0.93873
+FPR: 0.217562
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+TPR: 0.93873
+FPR: 0.217562
+Number of face images in dataset: 2236
+Number of non face images in dataset: 763
+
+________________________________________________________________________________
+
+Strong Classifier 2
+
+Weak Classifer 0
+index: 22307
+parity: -1
+thresh: 923
+error: 0.184813
+alpha: 1.48407
+TPR: 0.853263
+FPR: 0.228916
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 1
+index: 71700
+parity: 1
+thresh: -160
+error: 0.230197
+alpha: 1.2072
+TPR: 0.853263
+FPR: 0.228916
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 2
+index: 472
+parity: -1
+thresh: 5
+error: 0.223804
+alpha: 1.24363
+TPR: 0.854216
+FPR: 0.138554
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 3
+index: 19782
+parity: 1
+thresh: 859
+error: 0.152636
+alpha: 1.71407
+TPR: 0.524535
+FPR: 0.355422
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 4
+index: 9813
+parity: 1
+thresh: 98
+error: 0.225655
+alpha: 1.23301
+TPR: 0.872797
+FPR: 0.259036
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 5
+index: 30179
+parity: -1
+thresh: 36
+error: 0.198795
+alpha: 1.39384
+TPR: 0.856598
+FPR: 0.39759
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 6
+index: 67906
+parity: -1
+thresh: -366
+error: 0.183666
+alpha: 1.49171
+TPR: 0.927108
+FPR: 0.391566
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 7
+index: 3908
+parity: 1
+thresh: -4
+error: 0.127068
+alpha: 1.92713
+TPR: 0.832301
+FPR: 0.373494
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 8
+index: 153464
+parity: 1
+thresh: -19
+error: 0.172304
+alpha: 1.56939
+TPR: 0.8404
+FPR: 0.337349
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 9
+index: 143118
+parity: -1
+thresh: 6.5
+error: 0.11522
+alpha: 2.0385
+TPR: 0.834207
+FPR: 0.349398
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 10
+index: 50342
+parity: -1
+thresh: -1.5
+error: 0.131585
+alpha: 1.88701
+TPR: 0.902811
+FPR: 0.283133
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 11
+index: 15883
+parity: 1
+thresh: -104
+error: 0.0808762
+alpha: 2.4305
+TPR: 0.885183
+FPR: 0.23494
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 12
+index: 156162
+parity: -1
+thresh: 257.5
+error: 0.080761
+alpha: 2.43205
+TPR: 0.918533
+FPR: 0.228916
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 13
+index: 142719
+parity: -1
+thresh: 10
+error: 0.0487909
+alpha: 2.97019
+TPR: 0.889948
+FPR: 0.283133
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 14
+index: 147847
+parity: 1
+thresh: 106
+error: 0.0353653
+alpha: 3.30602
+TPR: 0.929014
+FPR: 0.240964
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 15
+index: 26049
+parity: -1
+thresh: 38
+error: 0.0243612
+alpha: 3.6901
+TPR: 0.948071
+FPR: 0.277108
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 16
+index: 43201
+parity: 1
+thresh: -2
+error: 0.0696739
+alpha: 2.59171
+TPR: 0.939019
+FPR: 0.192771
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+Weak Classifer 17
+index: 67843
+parity: 1
+thresh: 29
+error: 0.0415577
+alpha: 3.13823
+TPR: 0.963316
+FPR: 0.259036
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+TPR: 0.963316
+FPR: 0.259036
+Number of face images in dataset: 2099
+Number of non face images in dataset: 166
+
+________________________________________________________________________________
+
+Strong Classifier 3
+
+Weak Classifer 0
+index: 1614
+parity: -1
+thresh: 175
+error: 0.169664
+alpha: 1.58801
+TPR: 0.773986
+FPR: 0.116279
+Number of face images in dataset: 2022
+Number of non face images in dataset: 43
+
+Weak Classifer 1
+index: 71700
+parity: 1
+thresh: -126
+error: 0.158384
+alpha: 1.6703
+TPR: 0.871414
+FPR: 0.255814
+Number of face images in dataset: 2022
+Number of non face images in dataset: 43
+
+Weak Classifer 2
+index: 2811
+parity: 1
+thresh: -48.5
+error: 0.191936
+alpha: 1.43748
+TPR: 0.925816
+FPR: 0.0697674
+Number of face images in dataset: 2022
+Number of non face images in dataset: 43
+
+Weak Classifer 3
+index: 160959
+parity: -1
+thresh: -895.5
+error: 0.151295
+alpha: 1.72448
+TPR: 0.928289
+FPR: 0.162791
+Number of face images in dataset: 2022
+Number of non face images in dataset: 43
+
+Weak Classifer 4
+index: 5743
+parity: 1
+thresh: 328
+error: 0.082167
+alpha: 2.41326
+TPR: 0.969832
+FPR: 0.255814
+Number of face images in dataset: 2022
+Number of non face images in dataset: 43
+
+TPR: 0.969832
+FPR: 0.255814
+Number of face images in dataset: 2022
+Number of non face images in dataset: 43
+
+Time to train: 11727.7s
+
+********************************************************************************
+
+Validating...
+
+Overall performance:
+TPR: 0.734694
+FPR: 0
+Number of face images in dataset: 49
+Number of non face images in dataset: 90
+
+
+Pushing to config files
+config_0.txt
+config_1.txt
+config_2.txt
+config_3.txt
+
+Deallocating memory...

@@ -1,0 +1,38 @@
+Actors
+
+imgRead
+inputs: filesystem::path inputImgFile (path to input image)
+outputs: welt_c_fifo_pointer output_IIS (pointer to an IIS)
+Description: This actor takes in a path to an input image and outputs a ptr. to an IIS 
+containing the index of this image and its contents.
+
+classifier:
+    The classifier actor uses a config file to load in weak classifier parameters.
+    The format of this config file is as follows.
+	The first line contains an id for the strong classifier. The second line contains one integer, the number
+    of weak classifiers that makes up the strong classifier.
+    There are then that many lines containing the feature type, x y coordinate of the top left
+    corner of the feature, width, height, parity, threshold and alpha.
+
+    config.txt:
+	<id>
+    <count>
+    <type> <x> <y> <width> <height> <p> <thresh> <alpha>
+    <type> <x> <y> <width> <height> <p> <thresh> <alpha>
+    ...
+inputs: input image FIFO, name of config file
+outptus: continue FIFO,  abort FIFO
+description: Determines whether a face is present or not in an image by
+calculating the feature values of the features provided in the config
+file. These feature values are applied to a strong classifer formulation
+which determine whether there is a face or not. If there is the IIS is
+passed along on the continue FIFO. If not, if is sent to the abort FIFO.
+
+
+file sink:
+inputs: abort fifo and face fifo, name of output file
+outputs: Data to output file
+desctiption: This actor checks which FIFO contains a token.
+If it is the abort fifo, the image index along with "NF" is 
+written to the output file. Otherwise the image index and
+"F" is written to the output file.

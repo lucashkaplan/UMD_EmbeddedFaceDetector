@@ -1,0 +1,20 @@
+Tests started on:
+Thu 11 May 2023 11:28:26 AM EDT
+-----------------------------------------------------
+Test result for:
+/homes/h/g/hgopal01/home/enee408m/labs/proj/team3/Training/test/test01
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/homes/h/g/hgopal01/home/enee408m/labs/proj/team3/Training/test/test01
+Files ../expected-errors.txt and error_output.txt differ
+-----------------------------------------------------
+Test result for:
+/homes/h/g/hgopal01/home/enee408m/labs/proj/team3/Training/test/test02
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/homes/h/g/hgopal01/home/enee408m/labs/proj/team3/Training/test/test02
+Files ../expected-errors.txt and error_output.txt differ
+Tests completed on:
+Thu 11 May 2023 11:28:29 AM EDT

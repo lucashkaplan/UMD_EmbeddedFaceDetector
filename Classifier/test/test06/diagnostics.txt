@@ -1,0 +1,24 @@
+
+creating img. read actor
+configuring 1
+class 1 configed
+configuring 2
+class 2 configed
+configuring 3
+class 3 configed
+
+Final imgFilepath: "./images/face00001.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+in cascade
+
+deleting img. read actor
+Deleting Strong Classifier
+Deleting Strong Classifier
+Deleting Strong Classifier
+
+Runtime: 7315 us

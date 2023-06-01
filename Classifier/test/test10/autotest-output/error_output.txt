@@ -1,0 +1,2 @@
+./runme: line 2: syntax error near unexpected token `<<<'
+./runme: line 2: `<<<<<<< HEAD'

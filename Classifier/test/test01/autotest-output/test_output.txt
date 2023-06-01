@@ -1,0 +1,10 @@
+Tests started on:
+Mon 15 May 2023 12:11:23 AM EDT
+-----------------------------------------------------
+Test result for:
+/homes/k/h/kherms/home/enee408m/Project/team3/Classifier/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/homes/k/h/kherms/home/enee408m/Project/team3/Classifier/test/test01
+Tests completed on:
+Mon 15 May 2023 12:11:23 AM EDT

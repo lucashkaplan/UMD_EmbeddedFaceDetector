@@ -1,0 +1,16 @@
+Tests started on:
+Thu 11 May 2023 11:29:08 AM EDT
+-----------------------------------------------------
+Test result for:
+/homes/h/g/hgopal01/home/enee408m/labs/proj/team3/Training/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/homes/h/g/hgopal01/home/enee408m/labs/proj/team3/Training/test/test01
+-----------------------------------------------------
+Test result for:
+/homes/h/g/hgopal01/home/enee408m/labs/proj/team3/Training/test/test02
+-----------------------------------------------------
+Error comparison result for: 
+/homes/h/g/hgopal01/home/enee408m/labs/proj/team3/Training/test/test02
+Tests completed on:
+Thu 11 May 2023 11:29:10 AM EDT

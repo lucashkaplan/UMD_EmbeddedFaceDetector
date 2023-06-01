@@ -1,0 +1,12 @@
+Tests started on:
+Mon 15 May 2023 06:52:00 PM EDT
+-----------------------------------------------------
+Test result for:
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test10
+Files ../correct-output.txt and output.txt differ
+-----------------------------------------------------
+Error comparison result for: 
+/homes/l/h/lhkaplan/home/enee408m/project/team3/Classifier/test/test10
+Files ../expected-errors.txt and error_output.txt differ
+Tests completed on:
+Mon 15 May 2023 06:52:01 PM EDT

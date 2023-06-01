@@ -1,0 +1,4 @@
+Dataset for training classifiers
+
+Scripts are to move data from the main training image set into seperate
+folders, and delete them from the full trianing dataset.

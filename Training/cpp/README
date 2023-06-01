@@ -1,0 +1,10 @@
+Source code for training algorithm
+
+To compile and run use makeme and runme. Outputs config_x.txt files corresponding to each stage in the cascade. Pulls training files from ../Dataset/test/txt/ or from ../Dataset/full/txt, and validation files from ../Dataset/validate/txt
+
+training.cpp contains main, 
+calc_features.cpp contains feature calculation method,
+stage.cpp contains training functions,
+validate.cpp contains output function for printing config files,
+data.h contains all data structures used 
+

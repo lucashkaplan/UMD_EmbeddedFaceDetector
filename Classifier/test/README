@@ -1,0 +1,7 @@
+This directory contains tests for various subsystem of the EFDS.
+
+For tests where the full EFDS was tested on a large number of 
+images a script called stats.sh is present.
+
+This script calculate the TP, FP, and FN rates by utilizing the
+output file of the image read.

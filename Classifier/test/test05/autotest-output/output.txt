@@ -1,0 +1,16 @@
+Top: 3 Bot: 4
+Left: 16 Right: 24
+Top: 16 Mid: 24 Bot: 32
+Left: 3 Mid: 4 Right: 5
+TopL: 16 TopR: 24 BotL: 24 BotR: 32
+Top: 0 Bot: 1
+Top: 0 Bot: 0
+Left: 0 Right: 0
+Top: 0 Mid: 0 Bot: 0
+Left: 0 Mid: 0 Right: 0
+TopL: 0 TopR: 0 BotL: 0 BotR: 0
+Top: 0 Bot: 0
+2c2
+< 2 NF
+---
+> 2 F

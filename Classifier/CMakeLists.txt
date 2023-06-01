@@ -1,0 +1,61 @@
+project(classifier)
+cmake_minimum_required(VERSION 2.8)
+set(CMAKE_CXX_STANDARD 17)
+
+INCLUDE_DIRECTORIES(
+        ${PROJECT_SOURCE_DIR}/src/Actors
+		${PROJECT_SOURCE_DIR}/src/Graph
+        $ENV{UXWELTER}/lang/cpp/src/gems/actors/common
+        $ENV{UXWELTER}/lang/cpp/src/gems/actors/basic
+        $ENV{UXWELTER}/lang/cpp/src/tools/graph
+        $ENV{UXWELTER}/lang/c/src/tools/runtime
+        $ENV{UXWELTER}/lang/c/src/gems/actors/common
+        $ENV{UXWELTER}/lang/c/src/gems/edges
+        )
+
+add_subdirectory(src)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test01)
+    ADD_SUBDIRECTORY(test/test01)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test01)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test02)
+    ADD_SUBDIRECTORY(test/test02)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test02)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test03)
+    ADD_SUBDIRECTORY(test/test03)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test03)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/imgReadTest01)
+    ADD_SUBDIRECTORY(test/imgReadTest01)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/imgReadTest01)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/imgReadTest02)
+    ADD_SUBDIRECTORY(test/imgReadTest02)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/imgReadTest02)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test04)
+    ADD_SUBDIRECTORY(test/test04)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test04)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test05)
+    ADD_SUBDIRECTORY(test/test05)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test05)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test06)
+   ADD_SUBDIRECTORY(test/test06)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test06)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test07)
+   ADD_SUBDIRECTORY(test/test07)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test07)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test08)
+   ADD_SUBDIRECTORY(test/test08)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test08)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test09)
+   ADD_SUBDIRECTORY(test/test09)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test09)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test10)
+   ADD_SUBDIRECTORY(test/test10)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test10)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test11)
+   ADD_SUBDIRECTORY(test/test11)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test11)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test12)
+   ADD_SUBDIRECTORY(test/test12)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test12)
+IF(EXISTS ${PROJECT_SOURCE_DIR}/test/test13)
+   ADD_SUBDIRECTORY(test/test13)
+ENDIF(EXISTS ${PROJECT_SOURCE_DIR}/test/test13)

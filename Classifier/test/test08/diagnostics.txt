@@ -1,0 +1,1124 @@
+
+creating img. read actor
+configuring 1
+class 1 configed
+configuring 2
+class 2 configed
+
+Final imgFilepath: "./txt/B1_00050.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B1_00100.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B1_00150.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B1_00200.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B1_00250.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B1_00300.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B1_00350.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B1_00400.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B1_00450.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B1_00500.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B1_00550.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_01547.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_01597.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_01647.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_01697.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_01747.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_01797.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_01847.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_01897.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_01947.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_01997.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02047.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02097.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02147.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02197.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02247.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02297.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02347.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02397.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02447.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02497.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02547.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02597.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02647.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02697.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02747.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02797.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02847.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02897.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02947.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_02997.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03047.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03097.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03147.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03197.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03247.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03297.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03347.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03397.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03447.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03497.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03547.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03597.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03647.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03697.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03747.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03797.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03847.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03897.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03947.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_03997.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_04047.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_04097.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_04147.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_04197.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_04247.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B20_04297.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B5_00041.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B5_00091.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B5_00141.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B5_00191.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B5_00241.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/B5_00291.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/GULF_133.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/GULF_2.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/GULF_75.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00001.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00051.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00101.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00151.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00201.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00251.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00301.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00351.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00401.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00451.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00501.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00551.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00601.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00651.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00701.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00751.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00801.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00851.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00901.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face00951.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01001.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01051.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01101.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01151.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01201.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01251.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01301.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01351.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01401.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01451.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01501.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01551.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01601.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01651.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01701.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01751.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01801.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01851.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01901.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face01951.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face02001.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face02051.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face02101.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face02151.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face02201.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face02251.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face02301.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face02351.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/face02401.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/geyser27_119.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/geyser27_164.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/geyser27_209.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/geyser27_49.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/geyser27_94.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/goldwater67_139.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/goldwater67_184.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/goldwater67_23.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/goldwater67_69.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/graves111_113.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/graves111_159.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/graves111_203.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/graves111_43.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+Final imgFilepath: "./txt/graves111_89.txt"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+img read
+image read
+in cascade
+in cascade
+
+deleting img. read actor
+Deleting Strong Classifier
+Deleting Strong Classifier
+
+Runtime: 31933 us

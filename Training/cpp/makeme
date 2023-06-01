@@ -1,0 +1,5 @@
+g++ -std=c++17 -O0 -o calc_features.o -c calc_features.cpp
+g++ -std=c++17 -O0 -o stage.o -c stage.cpp
+g++ -std=c++17 -O0 -o validate.o -c validate.cpp
+g++ -std=c++17 -O0 training.cpp calc_features.o stage.o validate.o -o training.exe
+#-Wall -Wextra -pedantic -O2 -o training.exe 

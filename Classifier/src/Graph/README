@@ -1,0 +1,14 @@
+face_detector graph
+This graph implements all fo the actors to create a fully functioning EFDS.
+The graph is built to be configurable in the number of strong classifiers and thus the number of actors it contains. Each iteration classifies one image in the input directory. 
+
+All config files fed to the graph are assumed to have the format of:
+
+config<id>.txt 
+
+where id is the index of the strong classifier, starting at 1.
+
+inputs: count of strong classifiers, input image directory, output file name
+
+outputs: output file with each image idnex and corresponding classification,
+diagnostics.txt with information on the run.

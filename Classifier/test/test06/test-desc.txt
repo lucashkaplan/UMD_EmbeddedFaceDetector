@@ -1,0 +1,5 @@
+This tests the functionality of the graph for one input image, located in the images subdirectory. This image is not a face.
+
+The output is not accurate, this just tests that the graph can iterate once.
+
+The config files are filled with values that will always detect face.

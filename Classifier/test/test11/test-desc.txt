@@ -1,0 +1,4 @@
+This tests the functionality of the graph for a subset of 139 the face and non-face images, located in the txt subdirectory. It also tests the
+accuracy of our embedded face detector.
+
+This is our final optimized configuration of the EFDS.

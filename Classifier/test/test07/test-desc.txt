@@ -1,0 +1,6 @@
+This tests the functionality of the graph for three input images, located in the images subdirectory. The first and 3rd images are not faces, and
+the second image is a face.
+
+The output is not accurate, this just tests that the graph can more than iterate once.
+
+The config files are filled with values that will always detect face.
